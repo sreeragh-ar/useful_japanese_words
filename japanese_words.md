@@ -3,7 +3,8 @@
 * Hello - Konninchiwa
 * I - Watashi / Boku
 * Yes - Hi
-* No - iye
+* No - iiye
+* House - iye
 * Nice to meet you - Yoroshku / Hajime mashite
 * Nice to meet you (polite)- Yoroshku onegaishimasu
 * Thankyou - Arigato
@@ -49,6 +50,18 @@
 * Amsterdam - Amustirudamu
 * Teacher - Sensei
 * Student - Gaksei
+* Eye - me
+* Ear - mimi
+* Cloudy - Kumori
+* Sunny - Hare
+* Wind - Kaze
+* Left - Hidari
+* Lunch box - Bento
+* Pencil - Enpitsu
+* Map - Chisu
+* Cat - neko
+* Dog - inu
+* Bird - Tori
 * also / as well/ too - mo
 * and - to
 * name - namai
@@ -61,5 +74,7 @@
 * Speak - Hanase
 * What is your name? - O namai va nandiska?
 * It is mine - Watashi no dis.
-* Ms. Sakura can speak Japanese - Sakura san wa nihongo ka hanase mas.
-
+* Ms. Sakura can speak Japanese - Sakura san wa nihongo ga hanase mas.
+* I can speak Japanese - Nihongo ga hanase mas.
+* Can you speak Japanese? - Nihongo ga hanase maska?
+* 
