@@ -27,7 +27,7 @@
 * Bag - Kaban
 * Bank - Ginko
 * Ticket - Kippu
-* Green tea - Ocha
+* Tea / Green tea - Ocha
 * India - Indo
 * Italy - Itaria
 * The UK - Igirisu
@@ -58,6 +58,8 @@
 * Drink - Nomu
 * Teacher - Sensei
 * Student - Gaksei
+* School - Gakko
+* Water - Mizu
 * Eye - me
 * Ear - mimi
 * Cloudy - Kumori
@@ -74,6 +76,7 @@
 * and - to
 * name - namai
 * ofcourse - mochirondis
+* Today - kyo
 * I am (they are / she is) not - deva ri masen
 * Likewise - Kochirakoso
 * Well - Deva / Ja
@@ -88,4 +91,8 @@
 * John can speak english and japanese - John  san wa ego to nihongo ga hanase mas.
 * Professor Tanaka can speak english and japanese - Tanaka sensei wa ego to nihongo ga hanase mas.
 * How many people are there? - Nanin diska?
-
+* What is this? - Kone wa nandiska?
+* What is it? / What is that? - Sone wa nandiska
+* Is this tea? - Kone wa ocha diska?
+* That one please - Sone o kodasai
+* This is tea - Kone wa ocha dis
