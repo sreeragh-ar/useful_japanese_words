@@ -23,6 +23,7 @@
 * Good night - oyasuminasai
 * bye - jaane
 * Good bye - sayonara
+* Rice - Gohan
 * Telephone - Denva
 * Bag - Kaban
 * Bank - Ginko
@@ -87,12 +88,23 @@
 * It is mine - Watashi no dis.
 * Ms. Sakura can speak Japanese - Sakura san wa nihongo ga hanase mas.
 * I can speak Japanese - Nihongo ga hanase mas.
+* I cannot speak Japanese - Nihongo wa hanase masen.
 * Can you speak Japanese? - Nihongo ga hanase maska?
 * John can speak english and japanese - John  san wa ego to nihongo ga hanase mas.
 * Professor Tanaka can speak english and japanese - Tanaka sensei wa ego to nihongo ga hanase mas.
 * How many people are there? - Nanin diska?
 * What is this? - Kone wa nandiska?
-* What is it? / What is that? - Sone wa nandiska
+* What is it? / What is that? - Sone wa nandiska? / Ane wa nandiska?
+* Which is it? - Done diska?
 * Is this tea? - Kone wa ocha diska?
-* That one please - Sone o kodasai
+* That one please - Sone o kodasai / Ane o kodasai.
+* Rice please - Gohen o kodasai.
+* The fish, please - Sakana o kodasai
 * This is tea - Kone wa ocha dis
+* I drink tea - Ocha o nomi mas.
+* I donot drink tea - Ocha wa nomi masen.
+* I donot eat rice - Gohan wa tabe masen.
+* Which one is water? - Donega mizu diska?
+* I eat fish - Sakana o tabe mas
+* I eat meat and vegetables - Niku to yasai o tabe mas.
+* I donot eat vegetable - Yasai wa tabe masen
