@@ -24,6 +24,8 @@
 * bye - jaane
 * Good bye - sayonara
 * Rice - Gohan
+* Apple - Ringo
+* Bread - pan
 * Telephone - Denva
 * Bag - Kaban
 * Bank - Ginko
@@ -108,3 +110,5 @@
 * I eat fish - Sakana o tabe mas
 * I eat meat and vegetables - Niku to yasai o tabe mas.
 * I donot eat vegetable - Yasai wa tabe masen
+* Well, Letus eat - Ja itadakimas
+* Thanks for the meal - Gochso samadishta
