@@ -23,6 +23,8 @@
 * Good night - oyasuminasai
 * bye - jaane
 * Good bye - sayonara
+* Everyday - Mai-nichi
+* Every morning - Mai-asa
 * Rice - Gohan
 * Apple - Ringo
 * Bread - pan
@@ -45,7 +47,7 @@
 * Paris - Pari
 * Brazil - Burajiru
 * Netherlands - Oranda
-* Nepal - Neparu
+* Nepal - Nepaaru
 * Egypt - Egypto
 * Greece - Girisha
 * Berlin - Beririn
@@ -80,7 +82,7 @@
 * name - namai
 * ofcourse - mochirondis
 * Today - kyo
-* I am (they are / she is) not - deva ri masen
+* I am (they are / she is) not - deva ari masen
 * Likewise - Kochirakoso
 * Well - Deva / Ja
 * What - nandiska
@@ -112,3 +114,11 @@
 * I donot eat vegetable - Yasai wa tabe masen
 * Well, Letus eat - Ja itadakimas
 * Thanks for the meal - Gochso samadishta
+* Six'o clock - rokuji
+* It is 3'o clock - Sanji dis.
+* Is it 1'o clock? - Ichiji diska?
+* It is not 2'o clock - Niji deva ari masen
+* It is 3:03 - Sanji sanpun dis.
+* What time is it now? - Ima nanji diska?
+* It is 2'o clock right now - Ima wa niji dis.
+* I eat rice every day - Watashi wa mai-nichi gohen o tabe mas.
