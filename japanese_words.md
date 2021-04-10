@@ -79,6 +79,9 @@
 * Bird - Tori
 * also / as well/ too - mo
 * and - to
+* at (time) - ni
+* around - goro
+* at around - goro ni
 * name - namai
 * ofcourse - mochirondis
 * Today - kyo
@@ -115,6 +118,7 @@
 * Well, Letus eat - Ja itadakimas
 * Thanks for the meal - Gochso samadishta
 * Six'o clock - rokuji
+* 12'o clock - Jew ni ji
 * It is 3'o clock - Sanji dis.
 * Is it 1'o clock? - Ichiji diska?
 * It is not 2'o clock - Niji deva ari masen
@@ -122,3 +126,7 @@
 * What time is it now? - Ima nanji diska?
 * It is 2'o clock right now - Ima wa niji dis.
 * I eat rice every day - Watashi wa mai-nichi gohen o tabe mas.
+* Iki mas - I will go
+* I go to school at around 9'o clock - Kyu ji goro ni gakko he iki mas
+* I go to school at 8 'o clock - Hachi ji ni gakko he iki mas
+* I donot go to school - Gakko ni ikki masen
