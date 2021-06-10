@@ -33,7 +33,31 @@
 * Bank - Ginko
 * Ticket - Kippu
 * Tea / Green tea - Ocha
+* Chair - isu
+* Table - Taburu
+* Desk - Tskuve
 * India - Indo
+* Zero - zero
+* One - ichi
+* Two - ni
+* Three - san
+* Four - yon
+* Five - go
+* Six - roku
+* Seven - nana
+* Eight - hachi
+* Nine - kyu
+* Ten - jew
+* Eleven - jew ichi
+* Twelve - jew ni
+* Thirteen - jew san
+* Ninteen - jew kyu
+* Twenty - ni jew
+* Twenty one - ni jew ichi
+* Thirty - san jew
+* Ninety - kyu jew
+* Ninety nine - kyu jew kyu
+* Hundred - hyakku
 * Italy - Itaria
 * The UK - Igirisu
 * France - Furaansu
